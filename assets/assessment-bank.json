@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Q1",
+    "objective": "LO1",
+    "prompt": "A trainer asks learners to use a supplied checklist to complete a fictional teach-back plan form. Which process is the main target?",
+    "options": [
+      "Remember",
+      "Apply",
+      "Evaluate"
+    ],
+    "answer": "B",
+    "rationale": [
+      "Remember would retrieve details; this task requires using the procedure.",
+      "Apply fits because the learner executes the supplied procedure.",
+      "Evaluate would require a judgment against criteria, rather than completing this form."
+    ]
+  },
+  {
+    "id": "Q2",
+    "objective": "LO1",
+    "prompt": "A team must design a new teach-back plan template for a workflow that has no existing template. Which process is the main target?",
+    "options": [
+      "Understand",
+      "Analyze",
+      "Create"
+    ],
+    "answer": "C",
+    "rationale": [
+      "An explanation would not produce the requested template.",
+      "Analysis can support the task, but the required output is a new template.",
+      "Create fits the requirement to develop a new product for this workflow."
+    ]
+  },
+  {
+    "id": "Q3",
+    "objective": "LO2",
+    "prompt": "Which objective provides the clearest observable performance and success standard?",
+    "options": [
+      "Understand teach-back plan quality.",
+      "Given a sample case and checklist, complete all four teach-back plan fields accurately.",
+      "Watch a video about teach-back plans."
+    ],
+    "answer": "B",
+    "rationale": [
+      "Understand alone does not specify the performance or standard to inspect.",
+      "The condition, observable task, and accuracy standard are explicit.",
+      "Watching is an activity, but it does not establish what someone can do afterward."
+    ]
+  },
+  {
+    "id": "Q4",
+    "objective": "LO2",
+    "prompt": "The objective asks learners to judge two teach-back plans against a quality rubric. Which assessment supplies the strongest evidence?",
+    "options": [
+      "Choose a definition of teach-back plan.",
+      "Report how confident they feel.",
+      "Rate both teach-back plans and justify each rating using the rubric."
+    ],
+    "answer": "C",
+    "rationale": [
+      "A definition checks recall rather than the required judgment.",
+      "Confidence does not demonstrate use of the criteria.",
+      "Ratings with rubric-based rationales make the required judgment visible."
+    ]
+  },
+  {
+    "id": "Q5",
+    "objective": "LO2",
+    "prompt": "Learners must complete a teach-back plan using a checklist, but the final check only asks them to name the fields. What is the best revision?",
+    "options": [
+      "Add a case that requires completing the teach-back plan accurately.",
+      "Add more field-name questions.",
+      "Require a longer viewing time."
+    ],
+    "answer": "A",
+    "rationale": [
+      "The case supplies evidence of the actual performance named in the objective.",
+      "More recall items would still leave the performance unobserved.",
+      "Time spent viewing does not establish accurate task execution."
+    ]
+  }
+]
