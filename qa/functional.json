@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "checks": [
+    "Preferences, modal close and return focus",
+    "Draft fields, four self-review criteria and accurate text export",
+    "Five-item correct path yields 100%; alignment 3/3",
+    "Retry preserves first score, clears choices and produces 20% latest score",
+    "Required activities complete all 12 steps even below quiz target",
+    "All 12 screens fit 390px and 320px widths with larger text enabled",
+    "Resources accessible; Escape closes dialog",
+    "51 browser events stored and retrieved from real local SQL LRS"
+  ],
+  "errors": [],
+  "browser": "141.0.7390.37",
+  "limitations": [
+    "Chromium checks only; no full WCAG audit",
+    "No NVDA/VoiceOver testing",
+    "No Moodle runtime or production deployment",
+    "No real learner pilot"
+  ]
+}
